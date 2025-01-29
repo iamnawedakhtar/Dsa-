@@ -1,5 +1,5 @@
 
-//dsu ka main motive hai constant time me ye batana ke 2 nodes hai wo ek hi componenet me exist kare hai ya nahi 
+//dsu ka main motive hai constant time me ye batana ke 2 nodes, ek hi componenet me exist kare hai ya nahi 
 
 #include <bits/stdc++.h>
 using namespace std;
